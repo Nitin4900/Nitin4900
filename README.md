@@ -1,87 +1,65 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Nitin Balakrishna Kandula</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      margin: 0;
-      padding: 20px;
-      background-color: #f5f5f5;
-      color: #333;
-      line-height: 1.6;
-    }
-    header, section {
-      background: #fff;
-      margin-bottom: 20px;
-      padding: 20px;
-      border-radius: 8px;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    }
-    header h1 {
-      margin-top: 0;
-    }
-    .tech-icons img {
-      vertical-align: middle;
-      margin-right: 12px;
-    }
-    .badges {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 20px;
-    }
-    .badge-item {
-      background: #e9ecef;
-      border-radius: 10px;
-      padding: 15px;
-      flex: 1 1 250px;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-      transition: transform 0.2s;
-    }
-    .badge-item:hover {
-      transform: scale(1.02);
-    }
-    .badge-item h3 {
-      margin-top: 0;
-      color: #007BFF;
-    }
-  </style>
-</head>
-<body>
+
 
   <!-- Introduction Section -->
   <header>
-    <h1>Hey 👋 What's up?</h1>
-    <p>My name is <strong>Your Name</strong> and I'm a <strong>Your Role</strong> from <strong>Your City/Country</strong>.</p>
+    <h1>Hey 👋?</h1>
+    <p>My name is <strong>Nitin Balakrishna Kandula</strong> and I'm a <strong>Data Analyst,Data Scientist,Data Engineer</strong> from <strong>USA.</p>
   </header>
 
-  <!-- About Me Section -->
-  <section>
-    <h2>About Me</h2>
-    <p>
-      ✨ Creating bugs since <em>[Your Start Year]</em><br>
-      📚 I'm currently learning <em>[Your Learning Path]</em><br>
-      🎯 Goals: <em>[Your Goals]</em><br>
-      🎲 Fun fact: <em>[Your Fun Fact]</em>
-    </p>
-  </section>
+<!-- Welcome Section -->
+<section>
+  <h1>Hi everyone, I'm Nitin! 👋</h1>
+  <p>
+    I'm an aspiring <strong>Data Scientist</strong> 💻, passionate about staying innovative in the fast-paced world of tech—especially in the areas of data analysis 📊, AI 🤖, and automation. One of my key goals for this course is to sharpen my skills, close a few gaps (especially with Excel! 📉), and explore creative ways to apply AI models to real-world problems 🌍.
+  </p>
+</section>
 
-  <!-- Tech Stack Section -->
-  <section>
-    <h2>I Code With</h2>
-    <div class="tech-icons">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript Logo">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Logo">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js Logo">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook Logo">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js Logo">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS Logo">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest Logo">
-    </div>
-  </section>
+<!-- Professional Background Section -->
+<section>
+  <h2>Professional Background</h2>
+  <p>
+    My background includes <strong>data analysis, reporting, database management</strong> 🗂️, and <strong>AI-powered application development</strong>. I'm proficient in <strong>SQL</strong> 🧠 and have worked extensively with relational databases to drive analytics, build ETL pipelines, and support ML workflows. Recently, I built a <strong>Resume–Job Description Analyzer using Groq AI</strong> ⚙️, and a similar version using Python NLP libraries like spaCy and NLTK 🐍. That experience really sparked my interest in language models and smart automation.
+  </p>
+</section>
+
+<!-- Learning Goals Section -->
+<section>
+  <h2>Learning Goals</h2>
+  <p>
+    While I’m still learning <strong>Excel</strong> 📘, I’m excited to finally give it the attention it deserves!
+  </p>
+</section>
+
+<!-- Personal Interests Section -->
+<section>
+  <h2>Personal Interests</h2>
+  <p>
+    Outside of work, I’m super into <strong>badminton</strong> 🏸, love going for long drives 🚗 to clear my mind, and I’m a huge <strong>motorsports fan</strong> 🏁—Formula 1, Le Mans, drag racing… if it’s fast and loud, count me in!
+  </p>
+</section>
+
+<!-- Collaboration Callout Section -->
+<section>
+  <h2>Let's Collaborate!</h2>
+  <p>
+    Looking forward to learning and collaborating with you all! 🙌
+  </p>
+</section>
+
+<!-- Tech Stack Section -->
+<section>
+  <h2>I Code With</h2>
+  <div class="tech-icons">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Logo">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL Logo">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="Microsoft SQL Server Logo">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="Power BI Logo">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure Logo">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow Logo">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy Logo">
+  </div>
+</section>
 
   <!-- Badges & Certifications Section -->
   <section>
@@ -103,6 +81,13 @@
         <p>DataCamp Certification, Feb 2025. Skilled in transforming complex data into clear insights through visualization.</p>
       </div>
       <!-- Additional badges can be added here -->
+    </div>
+    <div class="badge-item">
+      <h3>Associate Data Engineer SQL</h3>
+      <p>Earned DataCamp's Associate Data Engineer SQL Certification in February 2025. Proficient in leveraging SQL to transform complex datasets into actionable insights and compelling      data visualizations.</p>
+    </div>
+    </div>
+
     </div>
   </section>
 
