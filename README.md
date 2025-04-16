@@ -51,7 +51,7 @@
 <div class="skills-table">
   <table>
     <tr>
-      <td>PYTHON</td>
+      <td>Python</td>
       <td>Machine Learning</td>
       <td>Azure Cloud Engineering</td>
       <td>Microsoft Office</td>
