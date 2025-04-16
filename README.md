@@ -1,6 +1,6 @@
   <!-- Introduction Section -->
   <header>
-    <h1>Hey 👋</h1>
+    <h1>Hi everyone, I'm Nitin! 👋✨</h1>
     <p>
       My name is <strong>Nitin Balakrishna Kandula</strong> and I'm a <strong>Data Analyst, Data Scientist, Data Engineer</strong> from <strong>USA</strong> 🇺🇸.
     </p>
@@ -8,7 +8,7 @@
 
   <!-- Welcome Section -->
   <section>
-    <h1>Hi everyone, I'm Nitin! 👋✨</h1>
+
     <p>
       I'm an aspiring <strong>Data Scientist</strong> 💻, passionate about staying innovative in the fast-paced world of tech—especially in data analysis 📊, AI 🤖, and automation. One of my key goals for this course is to sharpen my skills, close a few gaps (especially with Excel! 📉), and explore creative ways to apply AI models to real-world problems 🌍.
     </p>
