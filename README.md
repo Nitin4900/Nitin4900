@@ -48,7 +48,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy Logo" title="NumPy">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Logo" title="GitHub"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio Logo" height="40" title="RStudio Logo">
-    <img src="https://cdn.jsdelivr.net/gh/<your‑user>/<your‑repo>/sas-original.svg"  alt="SAS Logo" height="40" title="sas-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg"
+     alt="Tableau Logo" height="40">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg"
+     alt="Power BI Logo" height="40">
+
   </div>
 <div class="skills-table">
   <table>
