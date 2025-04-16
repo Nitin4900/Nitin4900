@@ -57,7 +57,7 @@
       <th>Cloud & Tools</th>
     </tr>
     <tr>
-      <td>PYTHON</td>
+      <td>Python</td>
       <td>Data Analysis</td>
       <td>Machine Learning</td>
       <td>Azure Cloud Engineering</td>
