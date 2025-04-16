@@ -47,6 +47,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow Logo" title="TensorFlow">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy Logo" title="NumPy">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Logo" title="GitHub">
+    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg](https://media-hosting.imagekit.io/323b1d20fd634712/Microsoft-Power-BI-Logo-1536x864.png?Expires=1839436659&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=E3TxOm-CpNdzUQq8Zis4Kr47TVHBuBUKz8b9-~csOy-LECi65PtqhtW5zFt82quDKdjdOy6SpjWP2K~luIgWYOEyi48G1qx9QIU~VWWOxRY~nHxy63V3X0ZRdUe6g5Mh~JgzZZCHXVlEhSB85oiABNWHra2WhY5911BokNtmFghVIyqdBNl09ZgSR7IMD5DGPTmc804v-dGJvmpH7NbT4KS~zl8vg4F1RQUcATjflumySjCwyljpAjN2FtW-CD556w4K7ewy9c4qY-C6Dj5xIizPSOJTqiMaVkQ7Yn2m2drpNAcgmk9Fm0NccOCuDO7bzyoxHGXK0kTXL87NFu7ITw__)" height="40" alt="Power BI Logo" title="Power BI">
+    
   </div>
 <div class="skills-table">
   <table>
