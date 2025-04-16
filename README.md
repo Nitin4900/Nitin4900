@@ -1,15 +1,13 @@
   <!-- Introduction Section -->
   <header>
     <h1>Hi everyone, I'm Nitin! 👋✨</h1>
+        <p>
+      I'm an aspiring <strong>Data Scientist</strong> 💻, passionate about staying innovative in the fast-paced world of tech—especially in data analysis 📊, AI 🤖, and automation. One of my key goals for this course is to sharpen my skills, close a few gaps (especially with Excel! 📉), and explore creative ways to apply AI models to real-world problems 🌍.
+    </p>
 
   </header>
 
-  <!-- Welcome Section -->
-  <section>
 
-    <p>
-      I'm an aspiring <strong>Data Scientist</strong> 💻, passionate about staying innovative in the fast-paced world of tech—especially in data analysis 📊, AI 🤖, and automation. One of my key goals for this course is to sharpen my skills, close a few gaps (especially with Excel! 📉), and explore creative ways to apply AI models to real-world problems 🌍.
-    </p>
   </section>
 
   <!-- Professional Background Section -->
