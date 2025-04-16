@@ -38,21 +38,46 @@
     </p>
   </section>
 
-<!-- Tech Stack Section -->
-<section>
-  <h2>I Code With 💻</h2>
-  <div class="tech-icons">
-    <!-- Core Programming and Tools -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo" title="Python">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Logo" title="Jupyter">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL Logo" title="PostgreSQL">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="Microsoft SQL Server Logo" title="Microsoft SQL Server">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure Logo" title="Azure">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow Logo" title="TensorFlow">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy Logo" title="NumPy">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Logo" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sklearn/sklearn-original.svg" height="40" alt="Scikit-Learn Logo" title="Scikit-Learn">
-  </div>
+<div class="skills-list">
+  <ul>
+    <li>PYTHON</li>
+    <li>SQL</li>
+    <li>R Script</li>
+    <li>SAS</li>
+    <li>Statistics</li>
+    <li>Root Cause Analysis</li>
+    <li>Data Management</li>
+    <li>Machine Learning</li>
+    <li>Data Validation</li>
+    <li>Azure Cloud Engineering</li>
+    <li>FastAPI</li>
+    <li>Deep Learning</li>
+    <li>ETL/ELT Pipelines</li>
+    <li>Power BI</li>
+    <li>Data Mining</li>
+    <li>Data Science</li>
+    <li>Data Pipelines</li>
+    <li>Data Warehousing</li>
+    <li>Quantitative Analysis</li>
+    <li>Data Analysis</li>
+    <li>Relational Databases</li>
+    <li>Natural Language Processing</li>
+    <li>Storytelling with Data</li>
+    <li>Microsoft Office</li>
+    <li>Tableau</li>
+    <li>Ad Hoc Reporting</li>
+    <li>Azure Cloud Services</li>
+    <li>PySpark</li>
+    <li>Computer Vision</li>
+    <li>Spacy</li>
+    <li>GroqAI</li>
+    <li>Scikit-Learn</li>
+    <li>Neural Networks</li>
+    <li>ML Flow</li>
+    <li>Streamlit</li>
+    <li>NLTK</li>
+  </ul>
+</div>
 </section>
 
   <!-- Badges & Certifications Section -->
