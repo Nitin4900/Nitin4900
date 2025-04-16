@@ -51,82 +51,64 @@
 <div class="skills-table">
   <table>
     <tr>
-      <th>Programming Languages</th>
-      <th>Data Science & Analysis</th>
-      <th>Machine Learning & AI</th>
-      <th>Cloud & Tools</th>
-    </tr>
-    <tr>
       <td>PYTHON</td>
-      <td>Data Analysis</td>
       <td>Machine Learning</td>
       <td>Azure Cloud Engineering</td>
-    </tr>
-    <tr>
-      <td>SQL</td>
-      <td>Statistics</td>
-      <td>Deep Learning</td>
       <td>Microsoft Office</td>
     </tr>
     <tr>
-      <td>R Script</td>
-      <td>Quantitative Analysis</td>
-      <td>Neural Networks</td>
+      <td>SQL</td>
+      <td>Deep Learning</td>
       <td>Power BI</td>
-    </tr>
-    <tr>
-      <td>SAS</td>
-      <td>Data Mining</td>
-      <td>Natural Language Processing</td>
       <td>Tableau</td>
     </tr>
     <tr>
-      <td></td>
-      <td>Data Warehousing</td>
-      <td>Computer Vision</td>
-      <td>Azure Cloud Services</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>Root Cause Analysis</td>
-      <td>XGBoost</td>
+      <td>R Script</td>
+      <td>Neural Networks</td>
       <td>Streamlit</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>Data Management</td>
-      <td>Scikit-Learn</td>
-      <td>FastAPI</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>Data Validation</td>
-      <td>Random Forest</td>
-      <td>PySpark</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>ETL/ELT Pipelines</td>
-      <td>Support Vector Machines</td>
       <td>NLTK</td>
     </tr>
     <tr>
-      <td></td>
-      <td>Storytelling with Data</td>
-      <td>Gradient Boosting Machines</td>
+      <td>SAS</td>
+      <td>Natural Language Processing</td>
+      <td>FastAPI</td>
       <td>Ad Hoc Reporting</td>
     </tr>
     <tr>
-      <td></td>
-      <td>Data Pipelines</td>
-      <td>Decision Trees</td>
-      <td></td>
+      <td>Statistics</td>
+      <td>Data Analysis</td>
+      <td>Azure Cloud Services</td>
+      <td>Quantitative Analysis</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Data Management</td>
+      <td>Data Warehousing</td>
+      <td>Data Pipelines</td>
+      <td>Data Mining</td>
+    </tr>
+    <tr>
+      <td>Data Validation</td>
+      <td>ETL/ELT Pipelines</td>
+      <td>XGBoost</td>
+      <td>Random Forest</td>
+    </tr>
+    <tr>
+      <td>Root Cause Analysis</td>
+      <td>Scikit-Learn</td>
+      <td>PySpark</td>
+      <td>Computer Vision</td>
+    </tr>
+    <tr>
+      <td>Decision Trees</td>
+      <td>Support Vector Machines</td>
+      <td>Gradient Boosting Machines</td>
       <td>Logistic Regression</td>
-      <td></td>
+    </tr>
+    <tr>
+      <td>GroqAI</td>
+      <td>Spacy</td>
+      <td>Storytelling with Data</td>
+      <td>Relational Databases</td>
     </tr>
   </table>
 </div>
