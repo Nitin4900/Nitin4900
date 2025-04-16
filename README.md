@@ -21,8 +21,8 @@
   <!-- Learning Goals Section -->
   <section>
     <h2>Learning Goals 🚀</h2>
-    <p>
-      While I’m still learning <strong>Excel</strong> 📘, I'm excited to give it the attention it deserves and master its many capabilities!
+      <p>
+         As I continue to unleash the full potential of <strong>Excel</strong> 📘, my journey remains thrillingly intertwined with its expansive features, pushing the boundaries of data manipulation and analysis. My robust expertise in <strong>Excel</strong> serves as the cornerstone of my tech repertoire, which spans <strong>Python</strong>, <strong>SQL</strong>, and deep <strong>data analytics</strong>. My passion for <strong>machine learning</strong> and <strong>natural language processing</strong> propels me to harness cutting-edge <strong>AI technologies</strong>, turning intricate data puzzles into crystal-clear actionable insights. This fervent pursuit not only fuels data-driven transformations but also revolutionizes decision-making across multifaceted business environments, making every challenge an exciting quest for innovation.
     </p>
   </section>
 
