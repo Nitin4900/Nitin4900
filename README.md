@@ -57,7 +57,7 @@
       <th>Cloud & Tools</th>
     </tr>
     <tr>
-      <td>Python</td>
+      <td>PYTHON</td>
       <td>Data Analysis</td>
       <td>Machine Learning</td>
       <td>Azure Cloud Engineering</td>
@@ -89,37 +89,43 @@
     <tr>
       <td></td>
       <td>Root Cause Analysis</td>
-      <td>Scikit-Learn</td>
+      <td>XGBoost</td>
       <td>Streamlit</td>
     </tr>
     <tr>
       <td></td>
       <td>Data Management</td>
-      <td>GroqAI</td>
+      <td>Scikit-Learn</td>
       <td>FastAPI</td>
     </tr>
     <tr>
       <td></td>
       <td>Data Validation</td>
-      <td>ML Flow</td>
+      <td>Random Forest</td>
       <td>PySpark</td>
     </tr>
     <tr>
       <td></td>
       <td>ETL/ELT Pipelines</td>
-      <td>Spacy</td>
+      <td>Support Vector Machines</td>
       <td>NLTK</td>
     </tr>
     <tr>
       <td></td>
       <td>Storytelling with Data</td>
-      <td></td>
+      <td>Gradient Boosting Machines</td>
       <td>Ad Hoc Reporting</td>
     </tr>
     <tr>
       <td></td>
       <td>Data Pipelines</td>
+      <td>Decision Trees</td>
       <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Logistic Regression</td>
       <td></td>
     </tr>
   </table>
