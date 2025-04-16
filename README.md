@@ -48,45 +48,81 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy Logo" title="NumPy">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Logo" title="GitHub">
   </div>
-<div class="skills-list">
-  <ul>
-    <li>PYTHON</li>
-    <li>SQL</li>
-    <li>R Script</li>
-    <li>SAS</li>
-    <li>Statistics</li>
-    <li>Root Cause Analysis</li>
-    <li>Data Management</li>
-    <li>Machine Learning</li>
-    <li>Data Validation</li>
-    <li>Azure Cloud Engineering</li>
-    <li>FastAPI</li>
-    <li>Deep Learning</li>
-    <li>ETL/ELT Pipelines</li>
-    <li>Power BI</li>
-    <li>Data Mining</li>
-    <li>Data Science</li>
-    <li>Data Pipelines</li>
-    <li>Data Warehousing</li>
-    <li>Quantitative Analysis</li>
-    <li>Data Analysis</li>
-    <li>Relational Databases</li>
-    <li>Natural Language Processing</li>
-    <li>Storytelling with Data</li>
-    <li>Microsoft Office</li>
-    <li>Tableau</li>
-    <li>Ad Hoc Reporting</li>
-    <li>Azure Cloud Services</li>
-    <li>PySpark</li>
-    <li>Computer Vision</li>
-    <li>Spacy</li>
-    <li>GroqAI</li>
-    <li>Scikit-Learn</li>
-    <li>Neural Networks</li>
-    <li>ML Flow</li>
-    <li>Streamlit</li>
-    <li>NLTK</li>
-  </ul>
+<div class="skills-table">
+  <table>
+    <tr>
+      <th>Programming Languages</th>
+      <th>Data Science & Analysis</th>
+      <th>Machine Learning & AI</th>
+      <th>Cloud & Tools</th>
+    </tr>
+    <tr>
+      <td>PYTHON</td>
+      <td>Data Analysis</td>
+      <td>Machine Learning</td>
+      <td>Azure Cloud Engineering</td>
+    </tr>
+    <tr>
+      <td>SQL</td>
+      <td>Statistics</td>
+      <td>Deep Learning</td>
+      <td>Microsoft Office</td>
+    </tr>
+    <tr>
+      <td>R Script</td>
+      <td>Quantitative Analysis</td>
+      <td>Neural Networks</td>
+      <td>Power BI</td>
+    </tr>
+    <tr>
+      <td>SAS</td>
+      <td>Data Mining</td>
+      <td>Natural Language Processing</td>
+      <td>Tableau</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Data Warehousing</td>
+      <td>Computer Vision</td>
+      <td>Azure Cloud Services</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Root Cause Analysis</td>
+      <td>Scikit-Learn</td>
+      <td>Streamlit</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Data Management</td>
+      <td>GroqAI</td>
+      <td>FastAPI</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Data Validation</td>
+      <td>ML Flow</td>
+      <td>PySpark</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>ETL/ELT Pipelines</td>
+      <td>Spacy</td>
+      <td>NLTK</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Storytelling with Data</td>
+      <td></td>
+      <td>Ad Hoc Reporting</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Data Pipelines</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
 </div>
 </section>
 
