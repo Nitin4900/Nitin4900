@@ -1,9 +1,7 @@
   <!-- Introduction Section -->
   <header>
     <h1>Hi everyone, I'm Nitin! 👋✨</h1>
-    <p>
-      My name is <strong>Nitin Balakrishna Kandula</strong> and I'm a <strong>Data Analyst, Data Scientist, Data Engineer</strong> from <strong>USA</strong> 🇺🇸.
-    </p>
+
   </header>
 
   <!-- Welcome Section -->
