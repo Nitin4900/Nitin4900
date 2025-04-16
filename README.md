@@ -47,7 +47,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow Logo" title="TensorFlow">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy Logo" title="NumPy">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Logo" title="GitHub"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI Logo" height="40" title="Power BI">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/sql-original.svg" alt="SQL" height="40" title="SQL">
   </div>
 <div class="skills-table">
   <table>
