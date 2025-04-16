@@ -38,14 +38,6 @@
     </p>
   </section>
 
-  <!-- Collaboration Callout Section -->
-  <section>
-    <h2>Let's Collaborate! 🤝💡</h2>
-    <p>
-      I’m looking forward to learning from and collaborating with you all!
-    </p>
-  </section>
-
   <!-- Tech Stack Section -->
   <section>
     <h2>I Code With 💻</h2>
@@ -86,6 +78,13 @@
         <p>Earned DataCamp's Associate Data Engineer SQL Certification in Feb 2025. Proficient in leveraging SQL to transform complex datasets into actionable insights and compelling visualizations.</p>
       </div>
     </div>
+  </section>
+    <!-- Collaboration Callout Section -->
+  <section>
+    <h2>Let's Collaborate! 🤝💡</h2>
+    <p>
+      I’m looking forward to learning from and collaborating with you all!
+    </p>
   </section>
 </body>
 </html>
