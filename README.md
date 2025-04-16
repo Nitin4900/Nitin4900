@@ -48,7 +48,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow Logo" title="TensorFlow">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy Logo" title="NumPy">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Logo" title="GitHub">
-     alt="Data Science Icon" height="40">
   </div>
 <div class="skills-table">
   <table>
