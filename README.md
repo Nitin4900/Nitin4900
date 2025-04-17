@@ -18,13 +18,22 @@
     </p>
   </section>
 
-  <!-- Learning Goals Section -->
-  <section>
-    <h2>Learning Goals 🚀</h2>
-      <p>
-         As I continue to unleash the full potential of <strong>Excel</strong> 📘, my journey remains thrillingly intertwined with its expansive features, pushing the boundaries of data manipulation and analysis. My robust expertise in <strong>Excel</strong> serves as the cornerstone of my tech repertoire, which spans <strong>Python</strong>, <strong>SQL</strong>, and deep <strong>data analytics</strong>. My passion for <strong>machine learning</strong> and <strong>natural language processing</strong> propels me to harness cutting-edge <strong>AI technologies</strong>, turning intricate data puzzles into crystal-clear actionable insights. This fervent pursuit not only fuels data-driven transformations but also revolutionizes decision-making across multifaceted business environments, making every challenge an exciting quest for innovation.
-    </p>
-  </section>
+<!-- Learning Goals Section -->
+<section>
+  <h2>Learning Goals 🚀</h2>
+  <p>
+    🚀 Fueled by a deep passion for <strong>AI</strong>, <strong>Machine Learning</strong>, and <strong>Natural Language Processing</strong>, I specialize in transforming intricate datasets into intelligent, actionable insights that drive strategic impact.
+  </p>
+  <p>
+    💻 My technical arsenal spans <strong>Python</strong>, <strong>R Script</strong>, <strong>SAS Programming</strong>, <strong>SQL</strong>, <strong>Tableau</strong>, and <strong>MS Power BI</strong>, combined with a solid foundation in <strong>statistical modeling</strong>, <strong>A/B testing</strong>, <strong>hypothesis-driven analysis</strong>, and <strong>root cause investigation</strong>. These capabilities empower me to uncover hidden patterns 🔍, optimize processes ⚙️, and deliver predictive solutions that scale across industries 🌍.
+  </p>
+  <p>
+    🤖 I also bring a strong focus on <strong>AI-driven application development</strong>—designing and building robust solutions that automate decision-making, analyze unstructured text using NLP, and elevate enterprise intelligence through smart automation. Whether it’s deploying a machine learning model into production 🔄, creating custom dashboards that tell stories with data 📊, or engineering AI tools to align business operations with insights in real time ⏱️, I thrive at the intersection of innovation and impact.
+  </p>
+  <p>
+    🎯 In every project, I strive to bridge the gap between raw data and strategic value—enabling teams to make faster, smarter, and more confident decisions through <strong>AI-enhanced analytics</strong> and <strong>next-gen data science solutions</strong>.
+  </p>
+</section>
 
   <!-- Personal Interests Section -->
   <section>
