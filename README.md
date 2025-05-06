@@ -139,11 +139,6 @@
       </div>
       <!-- Certification 3 -->
       <div class="badge-item">
-        <h3>Associate Data Engineer</h3>
-        <p>DataCamp Certification, Dec 2024. Solid foundation in data manipulation and analytics.</p>
-      </div>
-      <!-- Certification 4 -->
-      <div class="badge-item">
         <h3>Data Analyst in Power BI</h3>
         <p>DataCamp Certification, Feb 2025. Skilled in transforming complex data into clear insights through visualization.</p>
       </div>
