@@ -128,20 +128,20 @@
   <section>
     <h2>Badges &amp; Certifications 🎖️</h2>
     <div class="badges">
-     <!-- Certification 1 -->
-      <div class="badge-item">
-        <h3>Associate Data Engineer SQL</h3>
-        <p>Earned DataCamp's Associate Data Engineer SQL Certification in Sep 2024. Proficient in leveraging SQL to transform complex datasets into actionable insights and compelling visualizations.</p>
-      <!-- Certification 2 -->
-      <div class="badge-item">
-        <h3>Databricks Certified Data Engineer Associate</h3>
-        <p>Achieved Oct 2024. Demonstrated expertise in data engineering and Azure integrations.</p>
-      </div>
-      <!-- Certification 3 -->
+    <!-- Certification 1 -->
       <div class="badge-item">
         <h3>Data Analyst in Power BI</h3>
         <p>DataCamp Certification, Feb 2025. Skilled in transforming complex data into clear insights through visualization.</p>
       </div>
+    <!-- Certification 2 -->
+      <div class="badge-item">
+        <h3>Databricks Certified Data Engineer Associate</h3>
+        <p>Achieved Oct 2024. Demonstrated expertise in data engineering and Azure integrations.</p>
+      </div>
+     <!-- Certification 3 -->
+      <div class="badge-item">
+        <h3>Associate Data Engineer SQL</h3>
+        <p>Earned DataCamp's Associate Data Engineer SQL Certification in Sep 2024. Proficient in leveraging SQL to transform complex datasets into actionable insights and compelling visualizations.</p>
       </div>
     </div>
   </section>
