@@ -1,168 +1,96 @@
-    <!-- Introduction Section -->
-  <header>
-    <h1>Hi, I'm Nitin! 👋✨</h1>
-        <p>
-      I'm an aspiring <strong>Data Analyst and Data Scientist</strong> 💻, passionate about staying innovative in the fast-paced world of tech—especially in data analysis 📊, AI 🤖, and automation. One of my key goals for this course is to sharpen my skills, close a few gaps (especially with Excel! 📉), and explore creative ways to apply AI models to real-world problems .
-    </p>
+<!-- Profile Introduction -->
+<h1 align="center">Hi, I'm Nitin! 👋✨</h1>
 
-  </header>
+<p align="center">
+  Aspiring <strong>Data Analyst & Data Scientist</strong> 💻 with a passion for innovation in data analysis 📊, AI 🤖, and automation. I'm currently focused on sharpening my skills (especially in Excel 📉) and applying AI models to solve real-world problems creatively.
+</p>
 
+---
 
-  </section>
+## 📈 Professional Background
 
-  <!-- Professional Background Section -->
-  <section>
-    <h2>Professional Background 📈</h2>
-    <p>
-      My background includes <strong>data analysis, reporting, and database management</strong> 🗂️, along with <strong>AI-powered application development</strong>. I’m proficient in <strong>SQL</strong> 🧠 and have worked extensively with relational databases to drive analytics, build ETL pipelines, and support ML workflows. Recently, I built a <strong>Resume–Job Description Analyzer using Groq AI</strong> ⚙️, and a similar version using Python NLP libraries like spaCy and NLTK 🐍. These experiences have fueled my passion for language models and smart automation.
-    </p>
-  </section>
+With a background in <strong>data analysis, reporting, and database management</strong> 🗂️, I’ve also explored <strong>AI-powered application development</strong>. I’m highly proficient in <strong>SQL</strong> 🧠 and have built ETL pipelines and supported ML workflows using relational databases.
 
-<!-- Learning Goals Section -->
-<section>
-  <h2>Learning Goals 🚀</h2>
-  <p>
-    Fueled by a deep passion for <strong>AI</strong>, <strong>Machine Learning</strong>, and <strong>Natural Language Processing</strong>, I specialize in transforming intricate datasets into intelligent, actionable insights that drive strategic impact.
-  </p>
-  <p>
-    💻 My technical arsenal spans <strong>Python</strong>, <strong>R Script</strong>, <strong>SAS Programming</strong>, <strong>SQL</strong>, <strong>Tableau</strong>, and <strong>MS Power BI</strong>, combined with a solid foundation in <strong>statistical modeling</strong>, <strong>A/B testing</strong>, <strong>hypothesis-driven analysis</strong>, and <strong>root cause investigation</strong>. These capabilities empower me to uncover hidden patterns 🔍, optimize processes ⚙️, and deliver predictive solutions that scale across industries 🌍.
-  </p>
-  <p>
-    🤖 I also bring a strong focus on <strong>AI-driven application development</strong>—designing and building robust solutions that automate decision-making, analyze unstructured text using NLP, and elevate enterprise intelligence through smart automation. Whether it’s deploying a machine learning model into production 🔄, creating custom dashboards that tell stories with data 📊, or engineering AI tools to align business operations with insights in real time ⏱️, I thrive at the intersection of innovation and impact.
-  </p>
-  <p>
-    In every project, I strive to bridge the gap between raw data and strategic value—enabling teams to make faster, smarter, and more confident decisions through <strong>AI-enhanced analytics</strong> and <strong>next-gen data science solutions</strong>.
-  </p>
-</section>
+Recently, I developed a <strong>Resume–Job Description Analyzer</strong> using Groq AI ⚙️, and another version using Python NLP libraries like spaCy and NLTK 🐍. These projects reflect my deep interest in language models and smart automation.
 
-  <!-- Personal Interests Section -->
-  <section>
-    <h2>Personal Interests 🎉</h2>
-    <p>
-      Outside of work, I’m super into <strong>badminton</strong> 🏸, love long drives 🚗 to clear my mind, and I'm a huge <strong>motorsports fan</strong> 🏁—whether it's Formula 1, Le Mans, drag racing, or any fast and loud action 🏎️🔥.
-    </p>
-  </section>
+---
 
-<!-- Tech Stack Section -->
-<section>
-  <h2>My AREAS OF EXPERTISE 💻</h2>
-  <div class="tech-icons">
-    <!-- Core Programming and Tools -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo" title="Python">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Logo" title="Jupyter">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio Logo" height="40" title="RStudio Logo">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL Logo" title="PostgreSQL">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="Microsoft SQL Server Logo" title="Microsoft SQL Server">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure Logo" title="Azure">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow Logo" title="TensorFlow">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy Logo" title="NumPy">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Logo" title="GitHub">
-  </div>
-<div class="skills-table">
-  <table>
-    <tr>
-      <td>Python</td>
-      <td>Machine Learning</td>
-      <td>Azure Cloud Engineering</td>
-      <td>Microsoft Office</td>
-    </tr>
-    <tr>
-      <td>SQL</td>
-      <td>Deep Learning</td>
-      <td>Power BI</td>
-      <td>Tableau</td>
-    </tr>
-    <tr>
-      <td>R Script</td>
-      <td>Neural Networks</td>
-      <td>Streamlit</td>
-      <td>NLTK</td>
-    </tr>
-    <tr>
-      <td>SAS</td>
-      <td>Natural Language Processing</td>
-      <td>FastAPI</td>
-      <td>Ad Hoc Reporting</td>
-    </tr>
-    <tr>
-      <td>Statistics</td>
-      <td>Data Analysis</td>
-      <td>Azure Cloud Services</td>
-      <td>Quantitative Analysis</td>
-    </tr>
-    <tr>
-      <td>Data Management</td>
-      <td>Data Warehousing</td>
-      <td>Data Pipelines</td>
-      <td>Data Mining</td>
-    </tr>
-    <tr>
-      <td>Data Validation</td>
-      <td>ETL/ELT Pipelines</td>
-      <td>XGBoost</td>
-      <td>Random Forest</td>
-    </tr>
-    <tr>
-      <td>Root Cause Analysis</td>
-      <td>Scikit-Learn</td>
-      <td>PySpark</td>
-      <td>Computer Vision</td>
-    </tr>
-    <tr>
-      <td>Decision Trees</td>
-      <td>Support Vector Machines</td>
-      <td>Gradient Boosting Machines</td>
-      <td>Logistic Regression</td>
-    </tr>
-    <tr>
-      <td>GroqAI</td>
-      <td>Spacy</td>
-      <td>Storytelling with Data</td>
-      <td>Relational Databases</td>
-    </tr>
-  </table>
-</div>
-</section>
+## 🚀 Learning Goals
 
-<!-- Badges & Certifications Section -->
-<section>
-  <h2>Badges & Certifications 🎖️</h2>
-  <div class="badges">
-    
-    <!-- Certification 1 -->
-    <div class="badge-item">
-      <h3>Microsoft Certified: Power BI Data Analyst Associate</h3>
-      <p>Earned in 2025. Validated expertise in data modeling, DAX, and building interactive reports using Power BI to drive business decisions.</p>
-    </div>
+I'm driven by a deep passion for <strong>AI</strong>, <strong>Machine Learning</strong>, and <strong>Natural Language Processing</strong>—focused on turning complex datasets into strategic insights.
 
-    <!-- Certification 2 -->
-    <div class="badge-item">
-      <h3>Databricks Certified Data Engineer Associate</h3>
-      <p>Achieved in Oct 2024. Demonstrated ability to build scalable data pipelines and integrate with Azure-based cloud platforms.</p>
-    </div>
+💻 My tech stack includes:
+- **Languages & Tools**: Python, R Script, SAS, SQL, Tableau, Power BI
+- **Concepts**: Statistical modeling, A/B testing, hypothesis analysis, root cause investigation
+- **Frameworks**: Streamlit, FastAPI, Azure Cloud Services
 
-    <!-- Certification 3 -->
-    <div class="badge-item">
-      <h3>Associate Data Engineer – SQL</h3>
-      <p>Certified by DataCamp in Sep 2024. Proficient in writing advanced SQL queries to transform and analyze structured data for reporting and visualization.</p>
-    </div>
+🤖 I build **AI-driven applications** that automate decisions, analyze unstructured text via NLP, and support real-time enterprise intelligence. Whether it's deploying ML models, building custom dashboards, or crafting AI tools, I thrive at the intersection of data, innovation, and business impact.
 
-    <!-- Certification 4 -->
-    <div class="badge-item">
-      <h3>Data Analyst in Power BI</h3>
-      <p>Issued by DataCamp in Feb 2025. Skilled in transforming complex datasets into actionable insights using data storytelling and interactive dashboards.</p>
-    </div>
+---
 
-  </div>
-</section>
-    <!-- Collaboration Callout Section -->
-  <section>
-    <h2>Let's Collaborate! 🤝💡</h2>
-    <p>
-      I’m looking forward to learning from and collaborating with you all!
-      My EmailID is: <a href="mailto:nitinkandulabk@gmail.com">nitinkandulabk@gmail.com</a>
-    </p>
-    </p>
-  </section>
-</body>
-</html>
+## 💼 Areas of Expertise
+
+### Programming & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" title="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" title="RStudio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" title="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" title="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" title="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub"/>
+</p>
+
+### Core Skills
+
+| Programming     | Data Science         | BI & Reporting     | ML & AI                |
+|----------------|----------------------|--------------------|------------------------|
+| Python         | Statistics           | Power BI           | Neural Networks        |
+| R Script       | Hypothesis Testing   | Tableau            | XGBoost, Random Forest |
+| SQL            | A/B Testing          | Storytelling w/ Data| NLP with spaCy, NLTK  |
+| SAS            | Root Cause Analysis  | Ad Hoc Reporting   | Scikit-learn, CV, SVM  |
+
+| Cloud & Tools      | Pipelines & Databases | Modeling & Algorithms     | Other Areas            |
+|--------------------|-----------------------|----------------------------|------------------------|
+| Azure, Databricks  | ETL/ELT, Data Warehousing | Decision Trees, Logistic Regression | Streamlit, FastAPI     |
+| GCP (basic)        | PySpark, Relational DBs | Gradient Boosting Machines | Groq AI, GitHub        |
+
+---
+
+## 🎖️ Badges & Certifications
+
+- 🧩 **Microsoft Certified: Power BI Data Analyst Associate**  
+  *Earned 2025 – Validated skills in data modeling, DAX, and building actionable Power BI reports.*
+
+- 🔧 **Databricks Certified Data Engineer Associate**  
+  *Earned Oct 2024 – Demonstrated expertise in scalable data pipelines and Azure integration.*
+
+- 📊 **Associate Data Engineer – SQL (DataCamp)**  
+  *Earned Sep 2024 – Proficient in writing advanced SQL for data transformation and analysis.*
+
+- 📈 **Data Analyst in Power BI (DataCamp)**  
+  *Earned Feb 2025 – Skilled in transforming complex data into insights using Power BI dashboards.*
+
+---
+
+## 🎉 Personal Interests
+
+Outside of tech, I enjoy:
+- Playing **badminton** 🏸
+- Going on **long drives** 🚗
+- Watching **motorsports** 🏁 (F1, Le Mans, drag racing, anything fast and loud 🏎️🔥)
+
+---
+
+## 🤝 Let’s Collaborate!
+
+I’m always excited to connect and learn with others in the data community. Feel free to reach out:
+
+📧 Email me at: [nitinkandulabk@gmail.com](mailto:nitinkandulabk@gmail.com)  
+📍 Based in Georgia, USA | Open to global collaboration
+
+---
+
+*Thanks for stopping by! Let's turn data into decisions together.* 🚀
