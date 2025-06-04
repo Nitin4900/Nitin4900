@@ -2,7 +2,7 @@
   <header>
     <h1>Hi, I'm Nitin! 👋✨</h1>
         <p>
-      I'm an aspiring <strong>Data Analyst and Data Scientist</strong> 💻, passionate about staying innovative in the fast-paced world of tech—especially in data analysis 📊, AI 🤖, and automation. One of my key goals for this course is to sharpen my skills, close a few gaps (especially with Excel! 📉), and explore creative ways to apply AI models to real-world problems .
+      I'm an aspiring <strong>DataAnalyst and Data Scientist</strong> 💻, passionate about staying innovative in the fast-paced world of tech—especially in data analysis 📊, AI 🤖, and automation. One of my key goals for this course is to sharpen my skills, close a few gaps (especially with Excel! 📉), and explore creative ways to apply AI models to real-world problems .
     </p>
 
   </header>
