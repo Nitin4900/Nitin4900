@@ -124,27 +124,37 @@
 </div>
 </section>
 
-  <!-- Badges & Certifications Section -->
-  <section>
-    <h2>Badges &amp; Certifications 🎖️</h2>
-    <div class="badges">
+<!-- Badges & Certifications Section -->
+<section>
+  <h2>Badges & Certifications 🎖️</h2>
+  <div class="badges">
+    
     <!-- Certification 1 -->
-      <div class="badge-item">
-        <h3>Data Analyst in Power BI</h3>
-        <p>DataCamp Certification, Feb 2025. Skilled in transforming complex data into clear insights through visualization.</p>
-      </div>
-    <!-- Certification 2 -->
-      <div class="badge-item">
-        <h3>Databricks Certified Data Engineer Associate</h3>
-        <p>Achieved Oct 2024. Demonstrated expertise in data engineering and Azure integrations.</p>
-      </div>
-     <!-- Certification 3 -->
-      <div class="badge-item">
-        <h3>Associate Data Engineer SQL</h3>
-        <p>Earned DataCamp's Associate Data Engineer SQL Certification in Sep 2024. Proficient in leveraging SQL to transform complex datasets into actionable insights and compelling visualizations.</p>
-      </div>
+    <div class="badge-item">
+      <h3>Microsoft Certified: Power BI Data Analyst Associate</h3>
+      <p>Earned in 2025. Validated expertise in data modeling, DAX, and building interactive reports using Power BI to drive business decisions.</p>
     </div>
-  </section>
+
+    <!-- Certification 2 -->
+    <div class="badge-item">
+      <h3>Databricks Certified Data Engineer Associate</h3>
+      <p>Achieved in Oct 2024. Demonstrated ability to build scalable data pipelines and integrate with Azure-based cloud platforms.</p>
+    </div>
+
+    <!-- Certification 3 -->
+    <div class="badge-item">
+      <h3>Associate Data Engineer – SQL</h3>
+      <p>Certified by DataCamp in Sep 2024. Proficient in writing advanced SQL queries to transform and analyze structured data for reporting and visualization.</p>
+    </div>
+
+    <!-- Certification 4 -->
+    <div class="badge-item">
+      <h3>Data Analyst in Power BI</h3>
+      <p>Issued by DataCamp in Feb 2025. Skilled in transforming complex datasets into actionable insights using data storytelling and interactive dashboards.</p>
+    </div>
+
+  </div>
+</section>
     <!-- Collaboration Callout Section -->
   <section>
     <h2>Let's Collaborate! 🤝💡</h2>
