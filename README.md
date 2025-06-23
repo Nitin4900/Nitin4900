@@ -80,7 +80,6 @@ I'm driven by a deep passion for <strong>AI</strong>, <strong>Machine Learning</
 Outside of tech, I enjoy:
 - Playing **badminton** 🏸
 - Going on **long drives** 🚗
-- Watching **motorsports** 🏁 (F1, Le Mans, drag racing, anything fast and loud 🏎️🔥)
 
 ---
 
