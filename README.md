@@ -1,5 +1,5 @@
 <!-- Profile Introduction -->
-<h1 align="center">Hi, I'm Nitin !👋✨</h1>
+<h1 align="center">Hi, I'm Niti !👋✨</h1>
 
 <p align="center">
   Aspiring <strong>Data Analyst & Data Scientist</strong> 💻 with a passion for innovation in data analysis 📊, AI 🤖, and automation. I'm currently focused on sharpening my skills (especially in Excel 📉) and applying AI models to solve real-world problems creatively.
